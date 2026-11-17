@@ -1,0 +1,4 @@
+Положите сюда готовый APK-файл приложения (например, app-debug.apk).
+Он собирается в Android Studio: Build -> Build Bundle(s) / APK(s) -> Build APK(s).
+Путь после сборки: app/build/outputs/apk/debug/app-debug.apk
+После этого файл можно удалить, если APK лежит в этой папке.
